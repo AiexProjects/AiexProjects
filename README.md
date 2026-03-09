@@ -1,4 +1,12 @@
-## Hi there 👋
+
+## Hi there, I'm Alex 👋
+
+I'm currently a student at the University of Auckland (UoA), double-majoring in Computer Science and Information & Technology Management.
+
+I mainly focus on building whatever catches my interest and helps me level up my skills.
+
+This space is essentially my digital workbench, a place to document my projects, track my progress, and showcase the things I build as I learn.
+
 
 <!--
 **AiexProjects/AiexProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
