@@ -12,6 +12,7 @@
  
 <a href="https://www.linkedin.com/in/alex-lee-571736358/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/aiex.lee/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+<a href="mailto:alexl210107@gmail.com" title="alexl210107@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 
 
 
