@@ -14,6 +14,11 @@
 <a href="https://www.instagram.com/aiex.lee/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 <a href="mailto:alexl210107@gmail.com" title="alexl210107@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 
+## <img src="https://miro.medium.com/v2/resize:fit:620/format:webp/0*ZYDCn6eN0BkmY8V-." width="25" style="vertical-align: middle;" />Current Projects
+
+- Building a [portfolio website](https://github.com/AiexProjects/portfolio-website).
+- Roblox game development. 
+
 
 
 <!--
