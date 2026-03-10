@@ -8,16 +8,17 @@
 - This space is essentially my digital workbench, a place to document my projects, track my progress, and showcase the things I build as I learn.
 
 
+## <img src="https://miro.medium.com/v2/resize:fit:620/format:webp/0*ZYDCn6eN0BkmY8V-." width="25" style="vertical-align: middle;" />Current Projects
+
+- Building a [portfolio website](https://github.com/AiexProjects/portfolio-website).
+- Roblox game development.
+
+
 ## Socials  <img src="https://static.wikia.nocookie.net/webarebears/images/b/b8/Bearstack.png/revision/latest/scale-to-width-down/469?cb=20160613205130" width="15" style="vertical-align: middle;" />
  
 <a href="https://www.linkedin.com/in/alex-lee-571736358/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/aiex.lee/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 <a href="mailto:alexl210107@gmail.com" title="alexl210107@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
-
-## <img src="https://miro.medium.com/v2/resize:fit:620/format:webp/0*ZYDCn6eN0BkmY8V-." width="25" style="vertical-align: middle;" />Current Projects
-
-- Building a [portfolio website](https://github.com/AiexProjects/portfolio-website).
-- Roblox game development. 
 
 
 
