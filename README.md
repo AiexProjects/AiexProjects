@@ -1,5 +1,5 @@
 
-## <img src="https://media.tenor.com/Jloq3y4mk8kAAAAi/amor-love.gif" width="35" style="vertical-align: middle;" />Hi there, I'm Alex
+## <img src="https://media.tenor.com/Jloq3y4mk8kAAAAi/amor-love.gif" width="35" style="vertical-align: middle;" />Hi there, I'm [Alex](https://aiexprojects.github.io/portfolio-website/)
 
 - I'm currently a student at the University of Auckland, double-majoring in Computer Science and Information & Technology Management.
 
