@@ -10,6 +10,7 @@
 
 ## <img src="https://miro.medium.com/v2/resize:fit:620/format:webp/0*ZYDCn6eN0BkmY8V-." width="25" style="vertical-align: middle;" />Current Projects
 
+- Building a [fitness tracker](https://github.com/AiexProjects/fitness_tracker)
 - Building a [probabilistic variance exploitation toolkit](https://github.com/AiexProjects/probabilistic-variance-exploitation-toolkit).
 - Building a [portfolio website](https://github.com/AiexProjects/portfolio-website).
 - Roblox game development.
